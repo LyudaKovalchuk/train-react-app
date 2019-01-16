@@ -1,0 +1,13 @@
+.image {
+  height: 300px;
+}
+
+.card-item {
+  width: 30%;
+  margin: 10px;
+  padding: 10px;
+}
+
+.item-a {
+  text-align: center;
+}
